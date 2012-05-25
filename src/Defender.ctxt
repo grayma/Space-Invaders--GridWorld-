@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=sender
+comment0.target=Defender(MainClass)
+comment0.text=\n\ Constructor.\ \ Requires\ parent\ class\ as\ a\ parameter\ for\ updating\ the\ message\ and\ keeping\ track\ of\ bombs\n\ on\ the\ board.\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ No\ acting\ is\ done\ within\ this\ function,\ just\ to\ override\ base\ actor\ behavior\ (flipping).\n
+comment2.params=
+comment2.target=void\ fire()
+comment2.text=\n\ Fires\ a\ client\ bomb\ "from"\ the\ defender.\n
+comment3.params=desc
+comment3.target=void\ work(java.lang.String)
+comment3.text=\n\ Performs\ an\ action\ based\ on\ the\ parameter\ desc.\n\ A\ \=\ move\ left\n\ D\ \=\ move\ right\n\ W\ \=\ fire\ client\ bomb\n
+numComments=4

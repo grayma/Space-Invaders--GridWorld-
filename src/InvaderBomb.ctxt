@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=sender\ group
+comment0.target=InvaderBomb(MainClass,\ InvaderGroup)
+comment0.text=\n\ Constructor\ for\ InvaderBomb.\ \ Adds\ InvaderGroup\ parameter\ to\ constructor\ so\ the\ amount\ of\n\ InvaderBombs\ on\ the\ grid\ can\ be\ tracked.\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Takes\ care\ of\ collision\ detection\ for\ other\ actors\ in\ the\ grid.\n
+comment2.params=
+comment2.target=void\ removeSelfFromGrid()
+comment2.text=\n\ Removes\ the\ bomb\ from\ the\ grid\ but\ also\ tells\ the\ InvaderGroup\ parent\ class\ it's\ \n\ ok\ to\ fire\ another\ invader\ bomb.\n
+numComments=3
